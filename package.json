@@ -34,7 +34,6 @@
   },
   "author": "Shopify Inc.",
   "license": "MIT",
-  "dependencies": {},
   "devDependencies": {
     "aws-sdk": "2.162.0",
     "babel": "6.23.0",
