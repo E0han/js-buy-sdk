@@ -4,7 +4,7 @@ logs
 npm-debug.log*
 
 # Dependencies
-node_modules
+#node_modules
 
 # Intermediate files
 .tmp
@@ -12,8 +12,6 @@ types.js
 optimized-types.js
 
 # Build artifacts
-index.*
-!docs/index.html
 
 # Decrypted secrets
 secrets.json
